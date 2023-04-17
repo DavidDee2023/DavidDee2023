@@ -22,6 +22,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+<div align="center">
+  <img src="https://www.epitech-it.es/wp-content/uploads/2023/01/1_junior-developer-300x169.jpg" width="600" height="300"/>
+</div>
+
 <!--
 **DavidDee2023/DavidDee2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
