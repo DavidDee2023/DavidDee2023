@@ -32,7 +32,7 @@
 ### :man_technologist: About Me : 
 I aspire to be a Softwear Developer, I am studying entry level Softwear Development in South Africa
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Lab Facilitator.
 
 - :seedling: Exploring Technical Content Writing.
 
