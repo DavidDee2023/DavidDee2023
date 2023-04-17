@@ -54,4 +54,5 @@ I aspire to be a Softwear Developer, I am studying entry level Softwear Developm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DingaanDee2023&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DingaanDee2023&theme=dark)](https://git.io/streak-stats)
+
